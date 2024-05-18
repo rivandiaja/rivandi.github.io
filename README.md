@@ -1,1 +1,1 @@
-# rivandi.github.io/BELAJAR.HTML
+BELAJAR.html
